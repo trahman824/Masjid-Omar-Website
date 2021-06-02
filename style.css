@@ -1,0 +1,83 @@
+
+#mobaa_prayer_times ul {
+	margin-top: 20px;
+}
+
+#mobaa_prayer_times tr td:last-child {
+	background: #f3f3f3
+}
+
+#mobaa_prayer_times td.prayer_time {
+	font-weight: bold;
+	color: #C0294F;
+	text-transform: uppercase;
+}
+.row .col.s3{
+	width: 33%;
+}
+
+._w-1_2{
+	margin-top: 15px;
+}
+.fa {
+	padding: 10px;
+	width: 80px;
+	text-align: center;
+	text-decoration: none;
+	margin-top: 5px;
+  }
+.row .col.s3{
+	margin-top: 10px;
+}
+
+.row{
+	margin-top: 1px;
+}
+.responsive-img{
+	max-width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.slider .btn{
+	margin-top: 25px;
+
+}
+
+
+
+ /* @media only screen and (max-width: 1430px) {
+	.responsive-table {
+
+		display: block;
+
+	}
+}  */
+
+	@media only screen and (max-width: 900px) {
+
+		nav .brand-logo{
+			font-size: 22px;
+	
+		}
+	}
+
+	@media only screen and (max-width: 645px) {
+
+		nav .brand-logo{
+			font-size: 100%;
+	
+		}
+
+	}
+	/* @media only screen and (max-width: 1400px) {
+		
+		.slider .slides li img{
+			width: 100%;
+			height: auto;
+			background-repeat: no-repeat;
+			background-color: white;
+		} 
+
+	}
+ */
